@@ -1,0 +1,22 @@
+.background {
+	background-color: grey;}
+
+.myphoto {
+    margin-top: 8px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 50%;
+    position: left;
+    padding: 10px;
+}
+
+.Name{font-family: 'Pacifico', cursive;
+	  font-size: 60px;
+	  color:#33FF99;}
+
+.welcome{
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	color: #33FF99;
+}
