@@ -1,5 +1,6 @@
 .background {
-	background-color: grey;}
+	background-color: grey;
+    overflow: hidden;}
 
 .myphoto {
     margin-top: 8px;
@@ -11,12 +12,29 @@
     padding: 10px;
 }
 
-.Name{font-family: 'Pacifico', cursive;
+.Name{font-family: 'Lobster Two', cursive;
 	  font-size: 60px;
-	  color:#33FF99;}
+	  color:#FFA07A;
+      margin-left: 450px;
+      margin-top: 400px;}
 
 .welcome{
 	font-family: 'Pacifico', cursive;
 	font-size: 30px;
 	color: #33FF99;
 }
+.btn-abby {
+    display: block;
+    margin: auto;
+}
+._4ORMAT_content_page_shape {
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    margin-left: -800px;
+    width: 1600px;
+    height: 800px;
+    overflow: hidden;
+    text-align: center;
+    pointer-events: auto;
+    border-radius: 50%;}
