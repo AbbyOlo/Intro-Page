@@ -16,25 +16,19 @@
 	  font-size: 60px;
 	  color:#FFA07A;
       margin-left: 450px;
-      margin-top: 400px;}
+      margin-top: 200px;
+      text-decoration: none;}
 
-.welcome{
-	font-family: 'Pacifico', cursive;
-	font-size: 30px;
-	color: #33FF99;
-}
-.btn-abby {
-    display: block;
-    margin: auto;
-}
-._4ORMAT_content_page_shape {
-    position: absolute;
-    z-index: 2;
-    left: 50%;
-    margin-left: -800px;
-    width: 1600px;
-    height: 800px;
-    overflow: hidden;
-    text-align: center;
-    pointer-events: auto;
-    border-radius: 50%;}
+.pronounce {font-family: 'Lobster Two', cursive;
+      font-size: 25px;
+      color:#FFFFFF;
+      margin-left: 525px;
+      overflow: hidden;}
+
+
+
+.mint {margin-top: 100px;}
+
+.social
+    {margin-top: 25px;
+    margin-left: 525px;}
