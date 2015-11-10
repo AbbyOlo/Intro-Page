@@ -1,7 +1,6 @@
 .background {
 	background-color: grey;
-	overflow:hidden;
-}
+	overflow:hidden;}
 
 .myphoto {
     margin-top: 8px;
@@ -26,7 +25,9 @@
       margin-left: 525px;
       overflow: hidden;}
 
-.mint {margin-top: 100px;}
+.mint {margin-top: 100px;
+	overflow:hidden;
+}
 
 .social
     {margin-top: 25px;
