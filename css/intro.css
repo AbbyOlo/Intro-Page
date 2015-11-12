@@ -1,6 +1,6 @@
 .background {
 	background-color: grey;
-    overflow: hidden;}
+	overflow:hidden;}
 
 .myphoto {
     margin-top: 8px;
@@ -12,22 +12,22 @@
     padding: 10px;
 }
 
-.Name{font-family: 'Lobster Two', cursive;
+.Name{font-family: 'Old Standard TT', serif;
 	  font-size: 60px;
 	  color:#FFA07A;
-      margin-left: 450px;
-      margin-top: 200px;
-      text-decoration: none;}
+	  margin-left: 450px;
+          margin-top: 200px;
+          text-decoration: none;}
 
-.pronounce {font-family: 'Lobster Two', cursive;
+.pronounce {font-family: 'Old Standard TT', serif;
       font-size: 25px;
       color:#FFFFFF;
       margin-left: 525px;
       overflow: hidden;}
 
-
-
-.mint {margin-top: 100px;}
+.mint {margin-top: 100px;
+	overflow:hidden;
+}
 
 .social
     {margin-top: 25px;
