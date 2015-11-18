@@ -1,5 +1,5 @@
 .background {
-	background-color: grey;
+	background-color: #E8E8E8;
   text-decoration: none;
 }
 .parallax-window {
@@ -15,7 +15,7 @@
 .photos
 {margin-top: 5%}
 
-span.text-content {
+/*span.text-content {
   background: rgba(0,0,0,0.5);
   color: white;
   cursor: pointer;
@@ -33,13 +33,39 @@ span.text-content {
 
 .photos img:hover span.text-content {
   opacity: 1;
+}*/
+
+.text-content {    
+    position: absolute;
+    color: #7A1C1C;
+    font-size: 60px;
+    font-family:'Amatic SC', cursive;
+    top: 127px;
+    left: 124px;
+    opacity: 0;
+    transition: all 1s ease;
 }
 
-span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+.photo {
+  position: relative;}
+
+
+.photo:hover img {
+  opacity: 0.5;
 }
+
+.photo:hover .text-content {
+  opacity: 1;
+
+}
+
+.photo img {
+    width: 100%;
+    height: auto;
+    transition: all 1s ease;
+    opacity: 1;
+}
+
 .name{
     font-family: 'Josefin Sans', sans-serif;
 	  font-size: 70px;
