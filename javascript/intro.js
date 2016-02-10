@@ -1,2 +1,6 @@
-$('.parallax-window').parallax({imageSrc: 'images/greysky.jpg'});
-console.log('Im fired');
+$('.parallax-window').parallax({imageSrc: 'images/kraft.jpg'});
+
+$('.Mylogo').fadeOut();
+
+$('.name').fadeIn ()
+

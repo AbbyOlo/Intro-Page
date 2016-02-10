@@ -1,10 +1,8 @@
 .background {
-<<<<<<< HEAD
-	background-color: #E8E8E8;
-=======
-	background-color: white;
->>>>>>> e4908bb2ebcf3ab6795058810fbe5e5663195914
+	background-color: #e5d6d5;
   text-decoration: none;
+
+
 }
 .parallax-window {
     min-height: 500px;
@@ -12,43 +10,27 @@
     left: 0px;
     top: 0px;
 }
-.logo
-  { margin-top: 50px;
-    margin-left: 42%;}
 
-.photos
-{margin-top: 5%}
-
-/*span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 300px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 400px;
-  font-family: 'Playfair Display', serif;
-  font-size: 30px;
-  text-align: center;
-
+.img-container {
+  padding-left: 38%;
+  margin-top: 2%;
 }
 
-.photos img:hover span.text-content {
-  opacity: 1;
-}*/
+.pattern-photo
+{border-radius: 50%;
+ }
 
 .text-content {    
     position: absolute;
     color: #7A1C1C;
     font-size: 60px;
-    font-family:'Amatic SC', cursive;
-    top: 127px;
+    font-family:'Josefin Sans', cursive;
+    top: 67px;
     left: 124px;
     opacity: 0;
     transition: all 1s ease;
 }
+
 
 .photo {
   position: relative;}
@@ -63,6 +45,14 @@
 
 }
 
+.photosrow {
+  margin-left: 5%;
+  margin-right:5%;
+  margin-top: 5%
+
+}
+
+
 .photo img {
     width: 100%;
     height: auto;
@@ -71,17 +61,14 @@
 }
 
 .name{
-    font-family: 'Josefin Sans', sans-serif;
-	  font-size: 70px;
+    font-family: 'Abril Fatface', cursive;
+	  font-size: 80px;
 	  color: black;
 	  margin-left: 30%;
     margin-top: 50px;
     margin-bottom: 20px;
     text-decoration: none;}
 
-.greywoods
-{ margin-top: 100px;
-  width: 100px;}
 
 .social
     {margin-top: 25px;
@@ -89,5 +76,15 @@
 
 .about {margin-top: 100px;}
 
+
+
 .paragraph
-{font-family: 'Playfair Display', serif;}
+{font-family: 'Droid Sans', sans-serif;
+font-size: 20px;
+text-align: justify;
+ margin-left: 5%;
+ margin-right: 5%;
+ margin-top: 25%;
+}
+
+
